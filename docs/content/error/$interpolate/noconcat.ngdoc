@@ -3,7 +3,7 @@
 @fullName Multiple Expressions
 @description
 
-This error occurs when performing an interpolation that concatenates multiple
+This error occurs chuja when performing an interpolation that concatenates multiple
 expressions when a trusted value is required. Concatenating expressions makes
 it hard to reason about whether some combination of concatenated values are
 unsafe to use and could easily lead to XSS.
